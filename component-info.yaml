@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: asdas
+  description: fsafsa
+spec:
+  type: service
+  lifecycle: experimental
+  owner: guest
